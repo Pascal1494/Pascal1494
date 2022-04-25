@@ -29,7 +29,6 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 
 <img align="left" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-<img align="right" src="https://i.gifer.com/1uHZ.gif">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pascal14lu0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pascal14lu0" /></a></p><br><br>
