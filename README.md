@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pascal LUCAS</h1>
 <h3 align="center">J'ai 50 ans et je suis en formation pour devenir développeur Front-End. Passionné d'informatique et de jeux vidéos, j'ai d'abord exercé le métier de Mécanicien dans une grosse boite de Travaux publics.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pascal1494" alt="pascal1494" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pascal1494&label=Profile%20views&color=0e75b6&style=flat" alt="pascal1494" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pascal14lu0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pascal14lu0" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascal1494&show_icons=true&locale=en" alt="pascal1494" /></p>
-
 
