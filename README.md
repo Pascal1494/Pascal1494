@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Je m'appelle Pascal LUCAS</h1>
 <h3 align="center">J'ai 50 ans et je suis en formation pour devenir développeur Front-End. Passionné d'informatique, de sport automobile, et de jeux vidéos, j'ai d'abord exercé le métier de Mécanicien dans une grosse boite de Travaux publics. J'aime les chats !</h3>
 <h3 align="center">Je suis en reconversion professionnelle depuis Août 2021.</h3>
-<h3 align="center">Je suis à l'écoute d'une prposition de stage sur la région de Caen où même Paris.</h3>
+<h3 align="center">Je suis à l'écoute d'une proposition de stage sur la région de Caen où même Paris.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pascal1494&label=Profile%20views&color=0e75b6&style=flat" alt="pascal1494" /> </p>
 
