@@ -36,8 +36,8 @@
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 
-
-  <img align="center" src="https://media.topito.com/wp-content/uploads/2013/05/code-gif-223.gif">
+<!-- 
+  <img align="center" src="https://media.topito.com/wp-content/uploads/2013/05/code-gif-223.gif"> -->
   
 
 <h3 align="left">Support:</h3>
